@@ -2,7 +2,7 @@
 
 NISA(Network and Information Security Association) 即福建师范大学网络与信息安全协会（以下简称“**网安协会**”），是在**福建师范大学网络与数据中心**指导下创立的学生社团，最早于 2014 年活跃在师大网安圈，于 2018 年正式以学生社团形式创立。自 2024 年起，由**计算机与网络空间安全学院**作为指导单位，林晖教授任指导老师。
 
-现任**背锅大侠**：@ssuns3t @Haicaji
+现任**背锅大侠**：[@ssuns3t](https://github.com/ssuns3t) [@Haicaji](https://github.com/Haicaji)
 
 ## 发展与活动
 
@@ -23,5 +23,6 @@ NISA(Network and Information Security Association) 即福建师范大学网络�
 - 完善现有网安实战靶场
 - 与校网信办共同建立校内 SRC 平台
 - 协助计算机与网络空间安全学院完善网安人才培养计划
+
 
 网安协会将继续秉持专业精神，推动校园网络安全发展，为培养更多网络安全人才贡献力量！
